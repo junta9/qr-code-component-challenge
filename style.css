@@ -35,8 +35,8 @@ h2 {
 }
 p {
     font-family: 'Outfit', sans-serif;
-    font-size: 20px;
-    padding: 0px 20px 20px 20px;
+    font-size: 18px;
+    padding: 0px 30px 20px 30px;
     color: hsl(220, 15%, 55%);
 }
 .attribution {
